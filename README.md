@@ -1,3 +1,3 @@
 # programming_concepts
 ## DSC Task 2: Programming Concepts
-**create a branch in this repo and push your source code from the given given exercises and the Bank App.**
+**Just follow the procedure used in task 1 and you'll be fine**
