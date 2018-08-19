@@ -15,7 +15,7 @@ class Bank:
         print("#"*30)
         print("Account Created")
         print("#"*30)
-        print("Account Name:\t",acc.name)
+        print("Account Name:\t\t",acc.name)
         print("Account Number:\t\t",acc.number)
         print("Account Balance:\t",acc.bal)
     def check_balance(self):
@@ -28,7 +28,7 @@ class Bank:
                 print("#"*30)
                 print("Account balance")
                 print("#"*30)
-                print("Account Name:\t",acc.name)
+                print("Account Name:\t\t",acc.name)
                 print("Account Number:\t\t",acc.number)
                 print("Account Balance:\t",acc.bal)
                 return
@@ -44,7 +44,7 @@ class Bank:
                 print("#"*30)
                 print("Deposit Slip")
                 print("#"*30)
-                print("Account Number:\t",acc.number)
+                print("Account Number:\t\t",acc.number)
                 print("Previous Balance:\t",acc.bal)
                 acc.bal+=amount
                 print("Current Balance:\t",acc.bal)
@@ -61,7 +61,7 @@ class Bank:
                 print("#"*30)
                 print("Withdrawal Slip")
                 print("#"*30)
-                print("Account Number:\t",acc.number)
+                print("Account Number:\t\t",acc.number)
                 print("Previous Balance:\t",acc.bal)
                 if acc.bal<amount:
                     print("Insufficient Funds")
