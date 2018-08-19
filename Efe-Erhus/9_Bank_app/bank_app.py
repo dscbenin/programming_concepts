@@ -63,6 +63,9 @@ class Bank:
                 print("#"*30)
                 print("Account Number:\t",acc.number)
                 print("Previous Balance:\t",acc.bal)
+                if acc.bal<amount:
+                    print("Insufficient Funds")
+                    return
                 acc.bal-=amount
                 print("Current Balance:\t",acc.bal)
                 return
