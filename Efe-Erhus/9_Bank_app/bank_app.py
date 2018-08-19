@@ -108,7 +108,7 @@ while True:
     else:
         print("Please make a valid selection")
         resp=int(input())
-    temp=input("Do you want to perform another operation?Y/N")
+    temp=input("Do you want to perform another operation?Y/N\t")
     if temp.lower()=="y":
         continue
     else:
