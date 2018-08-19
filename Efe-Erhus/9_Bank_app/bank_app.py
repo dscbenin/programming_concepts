@@ -87,7 +87,16 @@ while True:
     for op in ops:
         print(i,"\t\t",op)
         i+=1
-    resp=int(input())
+    while True:
+        try:
+            resp=int(input("Please Make Your Selection\t\t"))
+            if resp not in [1,2,3,4]:
+                raise Exception("Invalid Selection")
+        except:
+            print("Invalid input")
+            continue
+        else:
+            break
     if resp==1:
         bank.create_account()
     elif resp==2:
