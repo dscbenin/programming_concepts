@@ -1,0 +1,25 @@
+
+Your name: Frank Ezenwanne
+
+Your discipline:Pharmacy
+
+Tell us what you think of the tasks so far
+Task 1 was great as it focused on an indispensable tool which we will need in the future as coders in a team!! Task 2 was also cool...Going through the building blocks of programming with a "soft" language like python..I think the name for the bank app should have been "transaction program" or better still "simple transaction program" to prevent "big ideas"...I myself was greatly astonished until I carefully read the breakdown.Thanks to you guyzz...You da best!!!..Thumbs up icon(notepad won't let me you know)....Once again thanks to YOU my ogas at the top!!!!!!!!!!
+
+Are you satisfied with the learning approach?
+Learning approach?It's cool in the sense that we own our learning..More like ...no restriction..I believe that self taught tech guys are usually the best.
+
+Please suggest ways for us to improve our mentorship approach
+ I think the things to learn should be broken down or spaced a bit at least for now..After we the beginners get familiar with the pattern, I think the rushing can then begin....Not only learning time is considered ...but the time to figure out what one really needs must also be taken into consideration.
+
+
+Would you honestly say you have learnt anything so far?
+Hell yeah...Version control with git..Modulus operator in python to check for nigerian currency...Data structure..list..Cool man.
+
+
+Do you know your Core_Team Members
+A good number ....Stephen Alexander Gabriel ,geeky,brainy DSC lead...Teenoh, python geek,...Sophie (All three so far are 4-eyed and are catholic), Princess(geeky,CSC Lady focused on front end , Machine learning), Dami and Eloghosa...(UI/UX, coding...Still doing some deep learning on them and the rest of the core team memberzz)...
+
+Are they supportive enough?
+(if not, tell us what kind of improvements you want)
+Supportive??...Yeah they are...........for now.
